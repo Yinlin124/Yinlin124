@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div align="center"> <img src="https://metrics.lecoq.io/Yinlin124?template=classic&config.timezone=Asia%2FShanghai"> </div>
+![Yinlin124's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yinlin124)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
