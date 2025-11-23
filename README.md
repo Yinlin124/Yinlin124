@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Yinlin124/Yinlin124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<div align="center"> <img src="https://metrics.lecoq.io/Yinlin124?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
