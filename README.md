@@ -11,4 +11,4 @@ Welcome to my GitHub profile.
 ### 📫 How to reach me
 * **Email:** [yinlin124@gmail.com](mailto:yinlin124@gmail.com)
 
-![Yinlin124's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yinlin124)
+![Yinlin124's GitHub stats](https://github-readme-stats-git-master-yinlin124s-projects.vercel.app/api?username=Yinlin124)
